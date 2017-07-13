@@ -1,0 +1,4 @@
+baseURL = "http://codebatik.com/"
+languageCode = "en-us"
+title = "Codebatik by Aditya"
+theme = "tranquilpeak"
