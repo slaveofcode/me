@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://codebatik.com/about/</loc>
+    <lastmod>2017-07-13T19:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/post/setup-this-site/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/quote/</loc>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/blog/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/post/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/setup/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codebatik.com/tags/website/</loc>
+    <lastmod>2017-07-13T00:00:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
