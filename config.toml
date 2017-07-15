@@ -2,7 +2,7 @@ baseURL = "http://codebatik.com/"
 languageCode = "en-us"
 title = "Codebatik by Aditya"
 theme = "tranquilpeak"
-defaultContentLanguage = "id-id"
+defaultContentLanguage = "en-us"
 disqusShortname = "codebatik"
 googleAnalytics = "UA-102617821-1"
 paginate = 7
@@ -91,7 +91,6 @@ canonifyurls = true
 
 
 [params]
-  dateFormat = "18 June 1991"
   keywords = ["aditya", "aditya kresna permana", "programming", "javascript"]
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
