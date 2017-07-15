@@ -12,7 +12,7 @@ showPagination: true
 Aplikasi web simpel untuk memantau listing terupdate dari [news.ycombinator.com](https://news.ycombinator.com) atau yang biasa disebut **hackernews**.
 <!--more-->
 
-<center>[Visit Hackerwatch](/hackerwatch)</center>
+<center>[Visit Hackerwatch](/hackerwatch) | [Github Repository](https://github.com/slaveofcode/hackerwatch)</center>
 
 Biasanya dalam bekerja di dunia teknologi atau dunia IT, kita seringkali dituntut untuk selalu up-to-date dalam ilmu-ilmu baru, agar tidak tertinggal dan bisa bermanfaat ketika berita update tersebut berhubungan dengan pekerjaan utama. 
 
