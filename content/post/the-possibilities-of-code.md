@@ -29,6 +29,10 @@ Sudah tidak mengherankan bila saat ini banyak aplikasi bertebaran memberikan keu
 
 Memang dunia berjalan begitu cepat hingga kita pun tidak sadar bahwa kita sudah hidup di masa depan, dimana jarak bukan lagi hal yang perlu dirisaukan, dimana informasi dapat dengan mudah didapat secara gratis dan cepat, dimana kita bisa berkomunikasi secara jelas meski lautan dan benua menghalangi.
 
-Tapi dibalik semua itu tahukah anda bahwa hal ini hanya dibentuk dari angka biner **1** dan **0** ? 
+Tapi dibalik semua itu tahukah anda bahwa hal ini hanya dibentuk dari angka biner **1** dan **0** ?, sebuah probabilitas yang sangat unik karena dunia digital terbentuk dari hal sesimpel itu.
+
+Kebutuhan bisnis dan aktivitas sehari-hari pun kini makin disponsori oleh teknologi. Startup seperti Uber, AirBnb, Gojek dan aplikasi sharing ekonomi sejenisnya makin hari makin tidak terlihat batasannya, dimana tembok antara fitur teknologi dengan kehidupan nyata sudah mulai sulit untuk dipisahkan, dan kita ikut terlibat di dalamnya. Semua ini membuktikan bahwa kedepannya manusia bisa akan sangat bergantung dengan teknologi, bahkan mungkin dalam sektor-sektor lainnya yang belum terjamah hanya tinggal menunggu waktu.
+
+Dari startup muncul inovasi, inovasi yang makin kian lekat dengan penyelesaian masalah, dimana ujung-ujungnya solusi masalah tersebut diselesaikan dengan fitur, dan lagi-lagi fitur tersebut dirangkai dengan kumpulan basis kode yang saat ini dikembangkan oleh beribu-ribu developer di seluruh dunia.
 
 Bersambung...
