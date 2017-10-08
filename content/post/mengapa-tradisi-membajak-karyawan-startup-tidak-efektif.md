@@ -14,7 +14,7 @@ tags:
 - development
 - programming
 - analyst
-draft: false
+draft: true
 ---
 Telah berulang kali saya mendapati message pada **LinkedIn** yang berusaha mengontak saya dan menjejali penawaran untuk pindah kerja, banyak pula yang mencoba mendapati saya melalui email, dan nomor telepon. Hal yang sangat berbeda dibandingkan dengan beberapa tahun lalu ketika dunia **Startup** belum ramai seperti sekarang.
 <!--more-->
