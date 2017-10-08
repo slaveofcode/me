@@ -5,8 +5,8 @@ thumbnailImage: https://source.unsplash.com/7Nrb5I7heJI/200x200
 coverImage: https://source.unsplash.com/7Nrb5I7heJI/1200x600
 metaAlignment: center
 coverMeta: out
-coverCaption: "Spec illustration by Cathryn Lavery"
-date: 2017-08-26T23:25:36+07:00
+coverCaption: "Lone cheetah on a dirt road photo by Camilla Coffey (@ubuntumilla) on Unsplash"
+date: 2017-10-18T12:05:00+07:00
 categories:
 - startup
 - development
