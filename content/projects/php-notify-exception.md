@@ -11,5 +11,5 @@ showPagination: true
 Monitoring your PHP project error exceptions
 <!--more-->
 
-<center>[Github Repository](https://github.com/slaveofcode/notify-exception)</center>
+<center>[Github Repository](https://github.com/slaveofcode/notifyexception)</center>
 
